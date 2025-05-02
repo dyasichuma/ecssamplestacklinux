@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EcsSampleStackLinux
+build_property.ProjectDir = C:\Users\dyasic\Documents\APGBR-Docs\ecs_sample-main-EcsSampleStackLinux-src\ecs_sample-main-EcsSampleStackLinux-src\EcsSampleStackLinux\src\EcsSampleStackLinux\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

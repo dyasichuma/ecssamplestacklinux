@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "na+0zYr+ThhSfl53r4E3JYqGoglPSWbZiQPlEIq7PoZpJih1iOK+jLgS3zFzxBLQBu3913haXuy9yViXnyH6eA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\dyasic\\Documents\\APGBR-Docs\\ecs_sample-main-EcsSampleStackLinux-src\\ecs_sample-main-EcsSampleStackLinux-src\\EcsSampleStackLinux\\src\\EcsSampleStackLinux\\EcsSampleStackLinux.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\dyasic\\AppData\\Roaming\\NuGet\\constructs\\' doesn't exist.",
+      "libraryId": "Amazon.CDK.Lib"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\dyasic\\AppData\\Roaming\\NuGet\\$(pwd)\\constructs\\' doesn't exist.",
+      "libraryId": "Amazon.CDK.Lib"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\dyasic\\AppData\\Roaming\\NuGet\\constructs\\' doesn't exist.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\dyasic\\AppData\\Roaming\\NuGet\\$(pwd)\\constructs\\' doesn't exist.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\dyasic\\AppData\\Roaming\\NuGet\\constructs\\' doesn't exist.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\dyasic\\AppData\\Roaming\\NuGet\\$(pwd)\\constructs\\' doesn't exist.",
+      "libraryId": "System.Text.Json"
+    }
+  ]
+}
